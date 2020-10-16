@@ -1,0 +1,1 @@
+Amount of different numbers in the file is 37

@@ -1,0 +1,7 @@
+test.c
+errors.h
+operations.h
+operations.c
+in_out.c
+in_out.h
+main.c

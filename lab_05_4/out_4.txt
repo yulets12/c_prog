@@ -1,0 +1,2 @@
+There are more than 100 numbers in the file.
+Amount of different numbers in the file is 5

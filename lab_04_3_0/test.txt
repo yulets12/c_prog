@@ -1,0 +1,35 @@
+1)Input:
+
+n = 4
+a = {17,-4,num,33}
+
+Result:
+
+Input error!(1)
+
+2)Input:
+
+n = -15
+
+
+Result:
+
+Input error!(2)
+
+3)Input:
+
+n = 4
+a = {89798,4,252,11111}
+
+Result:
+
+Result Array: 
+
+4)Input:
+
+n = 7
+a = {-33,14,88,-74,101,-252,666}
+
+Result:
+
+Result Array: -33 14 -74 -252

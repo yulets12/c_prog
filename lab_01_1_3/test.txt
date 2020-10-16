@@ -1,0 +1,23 @@
+1)¬ходные данные:
+v1 and t1: 50 80
+v2 and t2: 150 15
+
+–езультат:
+Volume is 200
+Temperature is 31.25
+
+2)¬ходные данные:
+v1 and t1: 36 140
+v2 and t2: 64 20
+
+–езультат:
+Volume is 100
+Temperature is 63.2
+
+3)¬ходные данные:
+v1 and t1: 17 51
+v2 and t2: 33 3
+
+–езультат:
+Volume is 50
+Temperature is 19.32
